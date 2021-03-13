@@ -1,2 +1,2 @@
 # forstepikcourse
-Homework for stepik course
+Репозиторий для временного хранения домашних заданий по курсу
